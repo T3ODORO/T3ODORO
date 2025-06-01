@@ -5,14 +5,14 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ads na Universidade Católica de Brasília.
 - 💼 Estagiário no Banco do Brasil.
-- 🌱 Aprendendo mais sobre Java, Kotlin e ServiceNow.
+- 🌱 Aprendendo mais sobre JavaScript, Angular e ServiceNow.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
 
 **Utilidades**
